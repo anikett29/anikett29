@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**anikett29/anikett29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aniket Gaikwad, a passionate Data Scientist from Pune, IN. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [Data Analysis & Data Enginnering].
+- 💬 Ask me about [AI/ML, Python].
+- 📫 How to reach me: [aniketgaikwad2912@gmail.com].
+- 😄 Pronouns: [He/Him].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[Add icons or list of languages and tools you're proficient in, e.g., JavaScript, Python, HTML, CSS, etc.]
+
+### Projects:
+
+- [Project 1]()
+- [Project 2]()
+- [Project 3]()
+
+### GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+

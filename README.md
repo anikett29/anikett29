@@ -8,8 +8,7 @@ I'm Aniket Gaikwad, a passionate Data Scientist from Pune, IN.
 - 😄 Pronouns: [He/Him].
 
 ### Languages and Tools:
-
-[Add icons or list of languages and tools you're proficient in, e.g., JavaScript, Python, HTML, CSS, etc.]
+HTML, CSS, Java Script, React, Bootstrap..etc
 
 ### Projects:
 

@@ -3,12 +3,9 @@
 I'm Aniket Gaikwad, a passionate Data Scientist from Pune, IN. 
 
 - 🌱 I’m currently learning [Data Analysis & Data Enginnering].
-- 💬 Ask me about [AI/ML, Python].
+- 💬 Ask me about [Python, Azure, Tableau, SQL, kafka, Docker, Softwore Development ].
 - 📫 How to reach me: [aniketgaikwad2912@gmail.com].
 - 😄 Pronouns: [He/Him].
-
-### Languages and Tools:
-HTML, CSS, Java Script, React, Bootstrap..etc
 
 ### Projects:
 
